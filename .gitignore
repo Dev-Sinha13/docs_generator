@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+.env
+.venv/
+
+# Project specific
+chrome_profile/
+source.txt
+*.log
